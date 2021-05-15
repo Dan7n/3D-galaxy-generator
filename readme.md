@@ -1,6 +1,6 @@
 ## 3D Galaxy Generator
 
-**Demo here: https://brave-villani-43cd1b.netlify.app/**
+**Live, tweakable demo here: https://brave-villani-43cd1b.netlify.app/**
 
 
 ![Preview](https://i.imgur.com/NL5NrXd.png)
