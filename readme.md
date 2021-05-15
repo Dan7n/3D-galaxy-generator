@@ -1,6 +1,6 @@
 ## 3D Galaxy Generator
 
-Demo here: 
+**Demo here: https://brave-villani-43cd1b.netlify.app/**
 
 3D scene of a galaxy using WebGL and ThreeJS. Tweak the parameters of the galaxy using the provided GUI to change the number of galaxy branches, colors of the stars, number or stars, etc. to make your own unique version
 
