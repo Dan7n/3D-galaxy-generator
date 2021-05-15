@@ -2,6 +2,10 @@
 
 **Demo here: https://brave-villani-43cd1b.netlify.app/**
 
+
+![Preview](https://i.imgur.com/NL5NrXd.png)
+
+
 3D scene of a galaxy using WebGL and ThreeJS. Tweak the parameters of the galaxy using the provided GUI to change the number of galaxy branches, colors of the stars, number or stars, etc. to make your own unique version
 
 **To use this repo:**
